@@ -1,7 +1,7 @@
 {
-  "name": "compatible-rn-versions",
-  "version": "1.0.1",
-  "description": "React-native versions should be compatible to",
+  "name": "cubefe-compatible-rn-versions",
+  "version": "1.0.2",
+  "description": "React-native versions that cubefe should be compatible to",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
