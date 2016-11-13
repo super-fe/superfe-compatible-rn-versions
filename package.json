@@ -1,6 +1,6 @@
 {
   "name": "compatible-rn-versions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React-native versions should be compatible to",
   "main": "index.js",
   "scripts": {

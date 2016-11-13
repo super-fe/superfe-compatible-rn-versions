@@ -6,8 +6,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
-## 1.0.0 - 2016-11-13
+## 1.0.1 - 2016-11-13
 ### Added
 - Initialize and publish this project with test cases and RN 0.35.0
 
-[Unreleased]: https://github.com/cubefe/compatible-rn-versions/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/cubefe/compatible-rn-versions/compare/1.0.0...HEAD
