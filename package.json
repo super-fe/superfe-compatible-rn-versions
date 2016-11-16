@@ -1,6 +1,6 @@
 {
   "name": "superfe-compatible-rn-versions",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "React-native versions that super-fe should be compatible to",
   "main": "index.js",
   "scripts": {
